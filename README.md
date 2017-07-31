@@ -27,6 +27,6 @@ http://localhost:8888
 
 ## Credits
 
-- Ramakrishnan for idea and feedback
+- [Ramakrishnan](https://www.linkedin.com/in/rama-krishnan-47502a20/) for idea and feedback
 - Inspired by [PicPac](http://picpac.tv/)
 - Thanks to [p5.js](https://p5js.org/), [gif.js](https://jnordberg.github.io/gif.js/)
